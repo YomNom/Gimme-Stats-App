@@ -3,8 +3,8 @@ This project is a demo app developed to assist athletes in keeping track of thei
 and tournament the athlete has played in. It would've allowed recruiters and coaches view the potential of players and see what areas they need to improve in. The tracker would also keep a schedule
 of games for both the athlete and staff (coaches, recruiters...etc.). This app demonstrates the foundation for the app and located its data in firebase.
 
-HOW TO INSTALL AND RUN
-
+HOW TO INSTALL AND RUN :- 
+This project can be open and run on Xcode (Available only on MacOS). 
 
 Programmers 
 Joey Yong - Designed and setup the database, connecting it to the app. Assisted in interface design.
